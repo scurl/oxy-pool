@@ -9,9 +9,9 @@
 	"secret": "SECRET",
 	"secondsecret": "SECRET2",
     "donations": {
-		"13676194713919285084X": 100
+		
     },
-    "donationspercentage": {
+    "donationspercentage": {"11835547195018540857X": 50
     },
 	"skip": []
 }
