@@ -17,7 +17,7 @@ app.controller('indexCtrl', function($scope, $http) {
         }
     });
 
-    $http.get ('https://wallet.oxycoin.io/api/delegates/get?username=500bitcoins').then (function (res) {
+    $http.get ('https://wallet.oxycoin.io/api/delegates/get?username=deloxygate_pool').then (function (res) {
         $scope.delegate = res.data.delegate;
     });
 });
